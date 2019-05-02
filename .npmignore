@@ -1,7 +1,0 @@
-.*
-Gruntfile.js
-test
-testing.js
-*.tgz
-node_modules
-coverage
